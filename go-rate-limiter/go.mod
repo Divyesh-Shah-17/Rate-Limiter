@@ -1,4 +1,4 @@
-module github.com/shahd/go-rate-limiter
+module github.com/Divyesh-Shah-17/Rate-Limiter/go-rate-limiter
 
 go 1.26.4
 

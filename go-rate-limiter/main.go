@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/redis/go-redis/v9"
-	"github.com/shahd/go-rate-limiter/limiter"
-	"github.com/shahd/go-rate-limiter/middleware"
+	"github.com/Divyesh-Shah-17/Rate-Limiter/go-rate-limiter/limiter"
+	"github.com/Divyesh-Shah-17/Rate-Limiter/go-rate-limiter/middleware"
 )
 
 func main() {

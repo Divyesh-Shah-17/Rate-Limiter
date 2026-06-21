@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/shahd/go-rate-limiter/limiter"
+	"github.com/Divyesh-Shah-17/Rate-Limiter/go-rate-limiter/limiter"
 )
 
 // KeyFunc extracts a rate-limiting key from the incoming HTTP request.

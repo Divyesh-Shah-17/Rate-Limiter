@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shahd/go-rate-limiter/limiter"
+	"github.com/Divyesh-Shah-17/Rate-Limiter/go-rate-limiter/limiter"
 )
 
 // mockLimiter implements limiter.RateLimiter for testing purposes.
